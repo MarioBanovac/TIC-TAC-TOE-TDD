@@ -33,7 +33,7 @@ TicTacToe implemented using TDD and customer-centric approach by shifting the fo
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/MarioBanovac/Password-Validator-TDD.git
+git clone https://github.com/MarioBanovac/TIC-TAC-TOE-TDD.git
 ```
 
 2. Change to the project directory:
