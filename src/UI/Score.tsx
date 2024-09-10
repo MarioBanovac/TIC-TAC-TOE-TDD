@@ -8,7 +8,7 @@ export function Score() {
       className="flex flex-row"
     >
       <div className="flex flex-column align-center text-white fs-30 ">
-        <div>Player(0)</div>
+        <div>Player(O)</div>
         <div>{score[0]}</div>
       </div>
       <div className="flex flex-column align-center text-white fs-30 ">
