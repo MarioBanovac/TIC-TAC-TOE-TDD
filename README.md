@@ -39,7 +39,7 @@ git clone https://github.com/MarioBanovac/TIC-TAC-TOE-TDD.git
 2. Change to the project directory:
 
 ```sh
-cd Password-Validator-TDD
+cd TIC-TAC-TOE-TDD
 ```
 
 3. Install the dependencies:
