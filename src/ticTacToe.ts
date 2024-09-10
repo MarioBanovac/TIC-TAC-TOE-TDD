@@ -27,7 +27,7 @@ interface ITicTacToe {
 }
 
 class TicTacToe implements ITicTacToe {
-  board = [
+  board: BoardType = [
     [[], [], []],
     [[], [], []],
     [[], [], []],
